@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avaneesh Sinha</h1>
 <h3 align="center">Productive, creative, and collaborative.</h3>
-<img align=”right” alt “Coding” width=”400” src=”https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaneeshsinha02&label=Profile%20views&color=0e75b6&style=flat" alt="avaneeshsinha02" /> </p>
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avaneeshsinha02&show_icons=true&locale=en&layout=compact" alt="avaneeshsinha02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avaneeshsinha02&show_icons=true&locale=en" alt="avaneeshsinha02" /></p>
-
-![image](https://github.com/avaneeshsinha02/avaneeshsinha02/assets/108007737/1daa2a1c-3846-4211-a91f-6be998f763b2)
