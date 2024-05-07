@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avaneesh Sinha</h1>
 <h3 align="center">Productive, creative, and collaborative.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif”>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaneeshsinha02&label=Profile%20views&color=0e75b6&style=flat" alt="avaneeshsinha02" /> </p>
 
