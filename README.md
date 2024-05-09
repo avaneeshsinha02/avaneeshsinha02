@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **avaneeshsinha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10UhYOWdNsqQ3dlsJQVqGvLk2MzcIr-Jv/view?usp=sharing](https://drive.google.com/file/d/10UhYOWdNsqQ3dlsJQVqGvLk2MzcIr-Jv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dQzkTZAPlKwwdFCtbHXyPSLyUGpzD-8s/view?usp=sharing](https://drive.google.com/file/d/1dQzkTZAPlKwwdFCtbHXyPSLyUGpzD-8s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
