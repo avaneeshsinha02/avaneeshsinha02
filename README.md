@@ -5,12 +5,11 @@
 
 - 🌱 I’m currently learning **Data Analytics and Software Development**
 
-- 🤝 Connect with me [https://www.linkedin.com/in/avaneesh-sinha-866b97213/](https://www.linkedin.com/in/avaneesh-sinha-866b97213/)
+- 🤝 Connect with me [LinkedIn/avaneeshsinha](https://www.linkedin.com/in/avaneesh-sinha-866b97213/)
 
 - 📫 How to reach me **avaneeshsinha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dQzkTZAPlKwwdFCtbHXyPSLyUGpzD-8s/view?usp=sharing]([https://drive.google.com/file/d/1tySgi5ObAd0AK0BQP_l70ynCEurAjnj2/view?usp=sharing)](https://drive.google.com/file/d/1PUlJV69rayxaMwxkYBvztY3MJR-yuMnt/view?usp=sharing
-)
+- 📄 Know about my experiences [Resume/avaneeshsinha](https://drive.google.com/file/d/1tySgi5ObAd0AK0BQP_l70ynCEurAjnj2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
